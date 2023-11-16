@@ -1,0 +1,1 @@
+Exercícios realizados em Python com fins de estudo da parte inicial da linguagem.
